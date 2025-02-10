@@ -7,6 +7,6 @@
 
 <p align="center">We pride ourselves on ensuring there is something for everyone here! Our player driven economy paired with our lands system fosters friendships and rivalries. Our PvP fans will love our warzone with supply drops, we've got fishing and mining plugins for the Survival oriented, and even dungeons for those who want a challenge and reward.</p>
 
-<p align="center">Our staff are dedicated to you, the player. Our goal is to build a friendly environment for anyone to make memories and be themselves. So what are you waiting for!? Jump online, join our <a href="https://discord.gg/WyXGGEUrYw">discord!</a> Maybe even give Fitz a pat or two. We hope to see you there!!</p>
+<p align="center">Our staff are dedicated to you, the player. Our goal is to build a friendly environment for anyone to make memories and be themselves. So what are you waiting for!? Jump online, join our <a target="_blank" href="https://discord.gg/WyXGGEUrYw">discord!</a> Maybe even give Fitz a pat or two. We hope to see you there!!</p>
 </body>
-<p align="center">• <a href="https://www.smpultd.gg/">Website</a> • <a href="https://discord.gg/WyXGGEUrYw">Discord</a>  • <a href="https://store.smpultd.gg/">Store</a> • </p>
+<p align="center">• <a target="_blank" href="https://www.smpultd.gg/">Website</a> • <a target="_blank" href="https://discord.gg/WyXGGEUrYw">Discord</a>  • <a target="_blank" href="https://store.smpultd.gg/">Store</a> • </p>
