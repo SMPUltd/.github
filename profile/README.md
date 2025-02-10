@@ -1,4 +1,4 @@
-<h1 align="center">• Server Version: 1.19.x • Friendly Community • Custom Plugins • Fishing • Lands • Quests • Events •</h1>
+<h1 align="center">• Server Version: 1.21.4 • Friendly Community • Custom Plugins • Fishing • Lands • Quests • Events •</h1>
 
 <body>
   <h2 align="center"><i>Smp Unlimited</i></h2>
